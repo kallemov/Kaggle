@@ -5,7 +5,7 @@ I did that for the educational purpose
 
 Feel free to take this code and modify it to get better results!
 
-The first few parts do imputations of missing data
+The first part does imputations of missing data
 
 There are implementations of DesicionTreeClassifier and XGBoostClassifier which got me only to top 50%
 
